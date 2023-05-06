@@ -1,0 +1,19 @@
+.container {
+    margin: 0 auto;
+        width: 80%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+}
+
+.escudoSize {
+    height: 20px;
+}
+
+.columnNumeros {
+    text-align: center;
+}
+
+.alinhaClubes {
+    padding-left: 8px;
+}
