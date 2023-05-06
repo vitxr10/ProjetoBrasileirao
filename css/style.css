@@ -6,13 +6,18 @@
         align-items: center;
 }
 
+.table-size{
+    margin: 0 auto;
+    width: 60%;
+}
+
 .escudoSize {
     height: 20px;
 }
 
-.columnNumeros {
+/* .columnNumeros {
     text-align: center;
-}
+} */
 
 .alinhaClubes {
     padding-left: 8px;
